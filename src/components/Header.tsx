@@ -23,7 +23,9 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-6">
             <div className="flex items-center space-x-2 text-gray-600">
               <Icon name="Phone" size={16} />
-              <span className="text-sm mx-0 py-4 px-6">+7 (8553) 32 46 30</span>
+              <span className="text-sm px-0 py-0 mx-10">
+                +7 (8553) 32 46 30
+              </span>
             </div>
             <div className="flex items-center space-x-2 text-gray-600">
               <Icon name="Clock" size={16} />
