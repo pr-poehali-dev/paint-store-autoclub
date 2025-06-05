@@ -23,7 +23,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-6">
             <div className="flex items-center space-x-2 text-gray-600">
               <Icon name="Phone" size={16} />
-              <span className="text-sm py-4">+7 (8553) 32 46 30</span>
+              <span className="text-sm py-4 mx-0">+7 (85</span>
             </div>
             <div className="flex items-center space-x-2 text-gray-600">
               <Icon name="Clock" size={16} />
