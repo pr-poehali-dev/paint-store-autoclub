@@ -3,7 +3,7 @@ const Hero = () => {
     <section className="bg-gradient-to-br from-blue-50 to-blue-100 py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 font-montserrat">
-          Кузовные технологии - Простые решения с АВТОКЛУБ
+          Кузовные технологии - простые решения с АВТОКЛУБ
         </h2>
         <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
           Профессиональные краски для автомобилей, строительства и творчества.
