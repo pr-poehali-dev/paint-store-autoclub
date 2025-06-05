@@ -47,12 +47,10 @@ const ContactInfo = () => {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600 mb-2">
-                <strong>+7 (8553) 12-34-56</strong>
+                <strong>+7 (8553) 32 46 30</strong>
               </p>
               <p className="text-gray-600 mb-4">
-                Консультации и заказы
-                <br />
-                Пн-Пт: 8:00-18:00
+                Консультации и заказы Пн-Сб:{" "}
               </p>
               <Button
                 size="sm"
