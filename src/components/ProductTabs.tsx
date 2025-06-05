@@ -115,8 +115,10 @@ const ProductTabs = () => {
     <section className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="text-gray-900 mb-4 font-montserrat font-extrabold text-4xl">
-            Наш ассортимент{" "}
+          <h2 className="text-gray-900 mb-4 font-montserrat text-2xl font-semibold">
+            У нас есть большой ассортимент цветов для разных моделей машин от
+            европейцев до китайцев. Также мы продаем расходные материалы от
+            брендов:
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto"></p>
         </div>
