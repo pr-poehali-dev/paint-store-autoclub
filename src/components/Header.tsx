@@ -28,7 +28,7 @@ const Header = () => {
             <div className="flex items-center space-x-2 text-gray-600">
               <Icon name="Clock" size={16} />
               <span className="text-sm py-4 mx-0">
-                Пн-Сб: 9:00-19:00 ㅤㅤㅤㅤㅤㅤㅤㅤㅤВс: 9:00-17:00
+                Пн-Сб: 9:00-19:00 ㅤㅤㅤㅤВс: 9:00-17:00
               </span>
             </div>
             <Button className="bg-orange-500 hover:bg-orange-600">
